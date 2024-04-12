@@ -17,7 +17,7 @@ const Header = () => {
       <img src={illustration1} width="100%" height="80%" alt='illustration'/>
     </div>
     <p className="const_mail">senor@gmail.com</p>
-   <HeaderSocials/>
+   {/* <HeaderSocials/> */}
     </header>
   )
 }
