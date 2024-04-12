@@ -1,7 +1,7 @@
 header {
-  margin-left: 10rem;
+  margin-left: 6rem;
   height: 100vh;
-  padding-top: 8rem;
+  padding-top: 5rem;
 }
 .header_container {
   display: flex;
@@ -55,12 +55,16 @@ span{
 }
 .right_portion{
   display: flex;
-  margin-left:40px;
+  /* margin-left:40px; */
+  padding-right: 110px;
   animation: right 2s ease-in;
 }
 .illustration{
   width: 100px;
   height: 100px;
+}
+.lp-text{
+  width: 750px;
 }
 /*---media queries(medium devices)---*/
 @media screen and (max-width:1024px){

@@ -5,6 +5,7 @@ import Skills from "./components/Skills";
 import Projects from "./components/Projects";
 import Journey from "./components/Journey";
 import Contact from "./components/Contact";
+import Guide from "./components/Guide"
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
      <Skills/>
      <Journey/>
      <Projects/>
+     <Guide/>
      <Contact/>
     </div>
   );

@@ -1,0 +1,11 @@
+.guide_msg{
+    margin: 6% 6%;
+    text-align: center;
+}
+.flexx{
+    display: flex;
+    justify-content: space-between;
+}
+.paraa{
+    padding: 9% 9%;
+}

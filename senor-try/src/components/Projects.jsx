@@ -3,6 +3,7 @@ import item1 from '../assets/anish.jpg';
 import item2 from '../assets/ishita.jpg';
 import item3 from '../assets/janhvi.jpg'
 import item4 from '../assets/pooja.jpg'
+import item5 from '../assets/asha.jpg'
 import {BsGithub} from "react-icons/bs";
 import {BsLinkedin} from "react-icons/bs";
 
@@ -40,6 +41,15 @@ const data =[
     github:'https://github.com/poojaharihar03',
     demo:'https://www.linkedin.com/in/poojaharihar'
   },
+  // {
+  //   id: 5,
+  //   image: item5,
+  //   title:'Dr. ASHA T.',
+  //   text:'A platform that provides users to converse over the globe though a ChatRoom.Further Users can add notes, thoughts and espy Graph of Emotions, Word Cloud and track Mental Health through it.Uses Socket.io for ChatRoom and Node JS, Express JS for implementing client and server sides.React JS and Tailwind CSS for applications UI .HTML and Pure JS for Mental Health implementation.',
+    
+  //   github:'https://sites.google.com/site/ashatbitcse',
+  //   demo:'https://www.linkedin.com/in/poojaharihar'
+  // },
 ]
 
 const Projects = () => {
