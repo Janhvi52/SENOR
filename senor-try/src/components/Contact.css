@@ -1,0 +1,18 @@
+
+.contact_msg{
+    margin: 8% 6%;
+    text-align: center;
+    padding-top: 8%;
+}
+.contact_msg h2{
+    font-weight: 900;
+    font-size: 40px;
+}
+.contact_msg p{
+   
+    font-size: 20px;
+}
+footer{
+    text-align: center;
+    color: var(--color-light);
+}

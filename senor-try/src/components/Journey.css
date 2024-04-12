@@ -1,0 +1,13 @@
+#journey{
+    color: black;
+    padding: 50px 0;
+}
+.vertical-timeline-element-title{
+    color: var(   --color-primary);
+}
+
+@media screen and (max-width:600px){
+.vertical-timeline-element-title{
+    width:300px;
+}
+}
